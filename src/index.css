@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Rancho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=Rancho&display=swap');
+
+.font-rancho {
+     font-family: "Rancho", cursive;
+}
+.font-raleway {
+    font-family: "Raleway", sans-serif;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
